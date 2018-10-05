@@ -5,7 +5,13 @@ The following images represent some of the model I did at Jacques Ferrier Archit
 
 
 ![](stage1.png?raw=true)
-### Markdown
+### Experiments with materials
+
+1,2 / layers of plexiglass superimposed then sanded
+5 / alternation of plexiglass and white cardboard per level
+3,9 / plexiglas model with color and transparency games
+4,6,7,8,10 / wood formwork (laser cut) and plaster filling
+
 
 ![](stage2.png?raw=true)
 ### Markdown
