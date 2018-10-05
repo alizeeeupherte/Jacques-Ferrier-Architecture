@@ -1,6 +1,6 @@
 
 
-.
+The following images represent some of the model I did at Jacques Ferrier Architecture as assistant modeler.
 
 
 
