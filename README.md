@@ -14,10 +14,14 @@ The following images represent some of the model I did at Jacques Ferrier Archit
 
 
 ![](stage2.png?raw=true)
-### Markdown
+### 3D Printer
+
+Experiments with double skin systems to cover the facade of a project.
+
 
 ![](stage3.png?raw=true)
 ### Markdown
+
 
 ![](stage4.png?raw=true)
 ### Markdown
