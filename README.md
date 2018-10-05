@@ -23,7 +23,7 @@ Experiments with double skin systems to cover the facade of a project.
 
 
 ![](stage3.png?raw=true)
-### Markdown
+### Offices in Paris's area
 
 
 ![](stage4.png?raw=true)
