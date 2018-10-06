@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 logo: logo_jfa.png
+description:
+github:
+ is_project_page: false
